@@ -6,7 +6,7 @@
 
 В эту специализацию входят:
 
-1. [Математика и Python для анализа данных](/tree/master/mathematics-and-python)
+1. [Математика и Python для анализа данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python)
 2. Обучение на размеченных данных
 3. Поиск структуры в данных
 4. Построение выводов по данным
