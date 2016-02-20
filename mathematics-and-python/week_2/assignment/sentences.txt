@@ -1,0 +1,22 @@
+In comparison to dogs, cats have not undergone major changes during the domestication process.
+As cat simply catenates streams of bytes, it can be also used to concatenate binary files, where it will just concatenate sequence of bytes.
+A common interactive use of cat for a single file is to output the content of a file to standard output.
+Cats can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small animals.
+In one, people deliberately tamed cats in a process of artificial selection, as they were useful predators of vermin.
+The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes.
+Domestic cats are similar in size to the other members of the genus Felis, typically weighing between 4 and 5 kg (8.8 and 11.0 lb).
+However, if the output is piped or redirected, cat is unnecessary.
+cat with one named file is safer where human error is a concern - one wrong use of the default redirection symbol ">" instead of "<" (often adjacent on keyboards) may permanently delete the file you were just needing to read.
+In terms of legibility, a sequence of commands starting with cat and connected by pipes has a clear left-to-right flow of information.
+Cat command is one of the basic commands that you learned when you started in the Unix / Linux world.
+Using cat command, the lines received from stdin can be redirected to a new file using redirection symbols.
+When you type simply cat command without any arguments, it just receives the stdin content and displays it in the stdout.
+Leopard was released on October 26, 2007 as the successor of Tiger (version 10.4), and is available in two editions.
+According to Apple, Leopard contains over 300 changes and enhancements over its predecessor, Mac OS X Tiger.
+As of Mid 2010, some Apple computers have firmware factory installed which will no longer allow installation of Mac OS X Leopard.
+Since Apple moved to using Intel processors in their computers, the OSx86 community has developed and now also allows Mac OS X Tiger and later releases to be installed on non-Apple x86-based computers.
+OS X Mountain Lion was released on July 25, 2012 for purchase and download through Apple's Mac App Store, as part of a switch to releasing OS X versions online and every year.
+Apple has released a small patch for the three most recent versions of Safari running on OS X Yosemite, Mavericks, and Mountain Lion.
+The Mountain Lion release marks the second time Apple has offered an incremental upgrade, rather than releasing a new cat entirely.
+Mac OS X Mountain Lion installs in place, so you won't need to create a separate disk or run the installation off an external drive.
+The fifth major update to Mac OS X, Leopard, contains such a mountain of features - more than 300 by Apple's count.
