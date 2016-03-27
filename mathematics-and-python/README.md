@@ -1,6 +1,6 @@
 # Математика и Python для анализа данных
 
-[Курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Yandex Data Factory.
+Первый [курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Yandex Data Factory.
 
 Содержание:
 
@@ -11,11 +11,11 @@
 
 -------
 
-## Список литературы
+## Список литературы от преподавателей курса
 
 Мы составили для вас список наших любимых учебников по темам, рассматривавшимся в этом курсе, с короткими комментариями. 
 
-[:ledger: PDF](https://github.com/demidovakatya/mashinnoye-obucheniye/blob/master/mathematics-and-python/recommendations.pdf)
+Скачать список в формате [:ledger: PDF](https://github.com/demidovakatya/mashinnoye-obucheniye/blob/master/mathematics-and-python/recommendations.pdf)
 
 ### Линейная алгебра
 
