@@ -1,6 +1,6 @@
 # Математика и Python для анализа данных
 
-[Курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Yandex Data Factory.
+Первый [курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Yandex Data Factory.
 
 Содержание:
 
@@ -9,13 +9,13 @@
 3. Оптимизация и матричные разложения
 4. Случайность
 
-Здесь лежат материалы к курсу.
-
 -------
 
-## Список литературы
+## Список литературы от преподавателей курса
 
-Мы составили для вас список наших любимых учебников по темам, рассматривавшимся в этом курсе, с короткими комментариями.
+Мы составили для вас список наших любимых учебников по темам, рассматривавшимся в этом курсе, с короткими комментариями. 
+
+Скачать список в формате [:ledger: PDF](https://github.com/demidovakatya/mashinnoye-obucheniye/blob/master/mathematics-and-python/recommendations.pdf)
 
 ### Линейная алгебра
 
@@ -54,7 +54,9 @@
 
 * Лагутин. Наглядная математическая статистика (2007) — в основном статистика, но есть и небольшое введение в теорию вероятностей. Стоит читать, кроме глав про классификацию и анализ данных, там изложение не слишком современно.
 * Чжун, АитСахлиа. Элементарный курс теории вероятностей. Стохастические процессы и финансовая математика (2007) — очень простое изложение.
-* Отличные лекции с мехмата Новосибирского Государственного Университета: http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf — теория вероятностей, http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu07.pdf — математическая статистика.
+* Отличные лекции с мехмата Новосибирского Государственного Университета: 
+	* [http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) — теория вероятностей, 
+	* [http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu07.pdf](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu07.pdf) — математическая статистика.
 
 Евгений Рябенко:
 
@@ -65,12 +67,13 @@
 
 Эмели Драль:
 
-* Классические руководства по Python: https://docs.python.org/2/tutorial/ (2.7), https://docs.python.org/3/tutorial/ (3.5)
-* Reitz. The Hitchhiker’s Guide to Python http://docs.python-guide.org/en/latest/ — довольно полное руководство, в котором рассматриваются вопросы от установки, работы с виртуальным окружением и работы в различных IDE до основных структур языка с примерами кода.
-* Google python class https://developers.google.com/edu/python/ — небольшой бесплатный онлайн-курс по Python для слушателей с минимальным опытом программирования.
+* Классические руководства по Python: ([2.7](https://docs.python.org/2/tutorial/), [3.5](https://docs.python.org/3/tutorial/))
+* Reitz. The Hitchhiker’s Guide to Python ([link](http://docs.python-guide.org/en/latest/)) — довольно полное руководство, в котором рассматриваются вопросы от установки, работы с виртуальным окружением и работы в различных IDE до основных структур языка с примерами кода.
+* Google python class ([link](https://developers.google.com/edu/python/)) — небольшой бесплатный онлайн-курс по Python для слушателей с минимальным опытом программирования.
 
-Книги, для тех, кому захочется основательно изучить Python:
+Книги для тех, кому захочется основательно изучить Python:
 
 * Lutz. Learning Python (2013) — с этой книги можно начинать изучение, она покрывает все основные структуры языка.
 * Lutz. Python Pocket Reference (2015) — подробный справочник.
+
 Обе эти книги переведены на русский.
