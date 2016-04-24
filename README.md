@@ -6,7 +6,7 @@
 
 1. [Математика и Python для анализа данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python)
 2. [Обучение на размеченных данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/supervised-learning)
-3. Поиск структуры в данных
+3. [Поиск структуры в данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/unsupervised-learning)
 4. Построение выводов по данным
 5. Прикладные задачи анализа данных
 6. Анализ данных: финальный проект
