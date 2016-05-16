@@ -1,0 +1,692 @@
+0	sour cream	0.092
+0	salsa	0.060
+0	shredded cheddar cheese	0.053
+0	chili powder	0.052
+0	flour tortillas	0.052
+0	black beans	0.043
+0	cumin	0.038
+0	green onions	0.031
+0	cheddar cheese	0.028
+0	cheese	0.024
+0	corn tortillas	0.022
+0	corn	0.020
+0	enchilada sauce	0.020
+0	ground cumin	0.020
+0	diced tomatoes	0.020
+0	green chile	0.018
+0	taco seasoning	0.017
+0	tomatoes	0.017
+0	cooked chicken	0.017
+0	cream cheese	0.014
+0	cilantro	0.013
+0	boneless skinless chicken breasts	0.013
+0	shredded lettuce	0.012
+0	jalapeno chilies	0.012
+0	guacamole	0.011
+0	avocado	0.011
+0	frozen corn	0.011
+0	taco seasoning mix	0.011
+0	pinto beans	0.010
+0	shredded sharp cheddar cheese	0.010
+0	lean ground beef	0.010
+0	oregano	0.010
+0	garlic powder	0.009
+0	yellow onion	0.008
+0	green chilies	0.008
+0	chicken	0.008
+0	jack cheese	0.007
+0	hot sauce	0.007
+0	chopped cilantro	0.007
+0	sliced black olives	0.006
+0	diced green chilies	0.006
+0	oil	0.005
+0	chopped tomatoes	0.005
+0	Mexican cheese	0.005
+0	phyllo dough	0.005
+0	asian pear	0.004
+0	condensed cream of chicken soup	0.004
+0	roma tomatoes	0.004
+0	chopped green chilies	0.003
+0	flour	0.003
+1	baking powder	0.095
+1	vanilla extract	0.062
+1	large eggs	0.059
+1	eggs	0.054
+1	baking soda	0.052
+1	unsalted butter	0.046
+1	buttermilk	0.042
+1	milk	0.041
+1	granulated sugar	0.039
+1	confectioners sugar	0.023
+1	white sugar	0.023
+1	ground cinnamon	0.022
+1	yellow corn meal	0.018
+1	flour	0.017
+1	chopped pecans	0.016
+1	powdered sugar	0.015
+1	brown sugar	0.014
+1	unsweetened cocoa powder	0.014
+1	shortening	0.013
+1	evaporated milk	0.012
+1	honey	0.011
+1	sweetened condensed milk	0.011
+1	bourbon whiskey	0.011
+1	light brown sugar	0.010
+1	self rising flour	0.010
+1	cornmeal	0.010
+1	ice water	0.009
+1	cake flour	0.009
+1	pure vanilla extract	0.009
+1	corn starch	0.008
+1	ground nutmeg	0.008
+1	peaches	0.008
+1	cream cheese	0.008
+1	sweet potatoes	0.007
+1	whole milk	0.007
+1	apples	0.007
+1	vegetable shortening	0.006
+1	pecan halves	0.006
+1	ripe olives	0.005
+1	whipping cream	0.005
+1	unflavored gelatin	0.005
+1	white cornmeal	0.005
+1	green tomatoes	0.004
+1	frozen whole kernel corn	0.004
+1	large egg yolks	0.004
+1	kosher salt	0.004
+1	margarine	0.004
+1	canola oil	0.003
+1	orange zest	0.003
+1	pie crust	0.003
+2	warm water	0.082
+2	boneless chicken skinless thigh	0.076
+2	basil	0.062
+2	basil leaves	0.042
+2	bread flour	0.042
+2	red pepper flakes	0.042
+2	penne pasta	0.037
+2	cornmeal	0.037
+2	grated parmesan cheese	0.029
+2	dry yeast	0.028
+2	sausage casings	0.028
+2	curry paste	0.024
+2	swiss chard	0.023
+2	kosher salt	0.020
+2	ricotta	0.020
+2	dough	0.019
+2	instant yeast	0.017
+2	bow-tie pasta	0.017
+2	coconut cream	0.016
+2	pizza sauce	0.015
+2	fresh mozzarella	0.015
+2	mozzarella cheese	0.012
+2	fresh herbs	0.012
+2	boneless skinless chicken breasts	0.011
+2	frozen spinach	0.011
+2	pepperoni	0.011
+2	thick-cut bacon	0.010
+2	pepperoni slices	0.010
+2	whole milk ricotta cheese	0.009
+2	won ton wrappers	0.009
+2	hellmann' or best food real mayonnais	0.009
+2	honey	0.007
+2	soup	0.007
+2	tomatoes	0.007
+2	nonfat evaporated milk	0.007
+2	spanish paprika	0.007
+2	tangerine	0.005
+2	butter beans	0.005
+2	frozen broccoli florets	0.004
+2	napa cabbage leaves	0.004
+2	natural yogurt	0.004
+2	Kraft Grated Parmesan Cheese	0.004
+2	Vietnamese coriander	0.004
+2	onion flakes	0.004
+2	chicken leg quarters	0.003
+2	baby portobello mushrooms	0.003
+2	baked pizza crust	0.003
+2	Philadelphia Cream Cheese	0.003
+2	ground sausage	0.003
+2	ditalini pasta	0.003
+3	fresh basil	0.093
+3	extra-virgin olive oil	0.065
+3	red wine vinegar	0.058
+3	tomatoes	0.046
+3	flat leaf parsley	0.045
+3	fresh lemon juice	0.044
+3	capers	0.041
+3	eggplant	0.040
+3	purple onion	0.034
+3	parmesan cheese	0.033
+3	fresh oregano	0.030
+3	fresh parsley	0.028
+3	red bell pepper	0.022
+3	black pepper	0.019
+3	plum tomatoes	0.019
+3	fresh dill	0.018
+3	zucchini	0.018
+3	pitted kalamata olives	0.017
+3	kosher salt	0.016
+3	dried oregano	0.015
+3	balsamic vinegar	0.014
+3	pancetta	0.014
+3	goat cheese	0.013
+3	fresh tarragon	0.012
+3	arugula	0.011
+3	lemon	0.011
+3	shallots	0.010
+3	artichoke hearts	0.009
+3	marsala wine	0.009
+3	feta cheese	0.009
+3	large garlic cloves	0.009
+3	red pepper flakes	0.008
+3	orzo	0.007
+3	whole wheat tortillas	0.006
+3	yellow bell pepper	0.006
+3	peeled tomatoes	0.006
+3	chicken bouillon	0.005
+3	crimini mushrooms	0.005
+3	part-skim mozzarella cheese	0.005
+3	boneless skinless chicken breasts	0.005
+3	halibut fillets	0.005
+3	reduced fat milk	0.005
+3	poultry seasoning	0.005
+3	fresh mint	0.004
+3	fontina cheese	0.004
+3	cooking spray	0.004
+3	fresh parmesan cheese	0.004
+3	teas	0.004
+3	artichok heart marin	0.004
+3	fish stock	0.004
+4	white sugar	0.116
+4	corn starch	0.097
+4	boneless skinless chicken breast halves	0.096
+4	cold water	0.077
+4	sauce	0.066
+4	egg whites	0.064
+4	fresh mushrooms	0.043
+4	dry sherry	0.036
+4	egg yolks	0.028
+4	sausages	0.027
+4	corn oil	0.022
+4	eggs	0.021
+4	seasoning	0.018
+4	chinese rice wine	0.017
+4	seasoned bread crumbs	0.017
+4	salad	0.010
+4	firmly packed light brown sugar	0.009
+4	olive oil flavored cooking spray	0.008
+4	duck	0.008
+4	cooking wine	0.008
+4	chop fine pecan	0.008
+4	soba	0.007
+4	tasso	0.007
+4	refrigerated pizza dough	0.007
+4	tapioca flour	0.006
+4	lemon juice	0.006
+4	mushrooms	0.006
+4	minced garlic	0.005
+4	coffee granules	0.005
+4	flatbread	0.005
+4	steamed white rice	0.005
+4	shiso	0.004
+4	sliced mushrooms	0.004
+4	boneless skinless chicken	0.004
+4	whole grain dijon mustard	0.004
+4	uncook medium shrimp, peel and devein	0.004
+4	canola oil	0.004
+4	chili bean paste	0.004
+4	farmer cheese	0.003
+4	lumpia wrappers	0.003
+4	manicotti shells	0.003
+4	brewed espresso	0.003
+4	white rice flour	0.003
+4	chicken bouillon granules	0.003
+4	condensed chicken broth	0.003
+4	shrimp	0.003
+4	chinese black mushrooms	0.003
+4	reduced fat coconut milk	0.002
+4	coca-cola	0.002
+4	stir fry vegetable blend	0.002
+5	cucumber	0.179
+5	baguette	0.060
+5	cilantro sprigs	0.045
+5	minced onion	0.043
+5	Sriracha	0.042
+5	jasmine rice	0.036
+5	Thai red curry paste	0.035
+5	peanuts	0.034
+5	corn kernels	0.033
+5	peanut butter	0.030
+5	palm sugar	0.028
+5	sea scallops	0.026
+5	fish	0.025
+5	allspice	0.019
+5	tilapia fillets	0.019
+5	cooked ham	0.017
+5	gari	0.014
+5	soba noodles	0.013
+5	rice vinegar	0.012
+5	grated carrot	0.011
+5	purple onion	0.011
+5	shells	0.011
+5	mung beans	0.010
+5	wasabi paste	0.009
+5	large garlic cloves	0.009
+5	roasted cashews	0.009
+5	ziti	0.008
+5	black sesame seeds	0.007
+5	medium dry sherry	0.007
+5	Japanese soy sauce	0.007
+5	chicken sausage	0.005
+5	pure maple syrup	0.005
+5	sardines	0.005
+5	low sodium worcestershire sauce	0.004
+5	country white bread	0.004
+5	ponzu	0.004
+5	splenda	0.004
+5	dried fettuccine	0.004
+5	graham crackers	0.004
+5	herb seasoning	0.003
+5	yellow summer squash	0.003
+5	seedless green grape	0.003
+5	five spice	0.003
+5	seedless watermelon	0.003
+5	kiwi fruits	0.003
+5	double-acting baking powder	0.003
+5	kelp	0.003
+5	garlic sauce	0.003
+5	Thai chili paste	0.002
+5	bocconcini	0.002
+6	celery	0.073
+6	dried thyme	0.068
+6	bay leaf	0.049
+6	bay leaves	0.036
+6	carrots	0.035
+6	diced tomatoes	0.032
+6	yellow onion	0.030
+6	chopped parsley	0.029
+6	ground allspice	0.028
+6	okra	0.024
+6	andouille sausage	0.023
+6	green bell pepper	0.023
+6	cayenne pepper	0.021
+6	tomato paste	0.021
+6	chicken stock	0.020
+6	shrimp	0.019
+6	black pepper	0.018
+6	dried oregano	0.017
+6	queso fresco	0.016
+6	smoked sausage	0.014
+6	kosher salt	0.013
+6	tomatoes	0.013
+6	chicken	0.013
+6	ground cayenne pepper	0.012
+6	celery ribs	0.012
+6	thyme	0.011
+6	chopped walnuts	0.011
+6	chile powder	0.011
+6	canola oil	0.011
+6	cajun seasoning	0.011
+6	potatoes	0.010
+6	flour	0.010
+6	chicken broth	0.010
+6	lard	0.009
+6	marjoram	0.009
+6	vanilla ice cream	0.008
+6	masa harina	0.008
+6	creole seasoning	0.008
+6	tamarind paste	0.008
+6	chicken drumsticks	0.008
+6	green onions	0.008
+6	ground cinnamon	0.008
+6	cooked white rice	0.007
+6	skim milk	0.007
+6	dried basil	0.007
+6	boneless skinless chicken breasts	0.006
+6	guajillo chiles	0.005
+6	minced garlic	0.005
+6	file powder	0.005
+6	beef stew meat	0.005
+7	large egg whites	0.094
+7	strawberries	0.044
+7	ground cardamom	0.043
+7	bananas	0.042
+7	vanilla	0.039
+7	powdered sugar	0.038
+7	almond extract	0.035
+7	cream of tartar	0.032
+7	semisweet chocolate	0.030
+7	cooking spray	0.030
+7	vanilla extract	0.026
+7	mint sprigs	0.021
+7	pineapple juice	0.018
+7	taco sauce	0.015
+7	fresh lemon juice	0.015
+7	green cardamom pods	0.015
+7	golden brown sugar	0.015
+7	whole cloves	0.013
+7	sweetened condensed milk	0.013
+7	celery seed	0.012
+7	ground cinnamon	0.012
+7	granulated sugar	0.011
+7	honey	0.011
+7	mixed greens	0.011
+7	chayotes	0.009
+7	meat bones	0.009
+7	firmly packed brown sugar	0.008
+7	unsweetened chocolate	0.008
+7	cardamom seeds	0.008
+7	neutral oil	0.008
+7	poppy seeds	0.008
+7	hot chili sauce	0.008
+7	brown sugar	0.008
+7	apple cider	0.008
+7	apricot halves	0.007
+7	vanilla instant pudding	0.007
+7	crumbled blue cheese	0.007
+7	serrano	0.006
+7	whole allspice	0.006
+7	full fat coconut milk	0.006
+7	granny smith apples	0.005
+7	canola	0.005
+7	ground tumeric	0.005
+7	stewing beef	0.005
+7	baby lima beans	0.005
+7	candy	0.005
+7	top round steak	0.005
+7	champagne vinegar	0.004
+7	yellow miso	0.004
+7	medjool date	0.004
+8	dry white wine	0.094
+8	crushed red pepper	0.075
+8	fat free less sodium chicken broth	0.043
+8	grated parmesan cheese	0.037
+8	low salt chicken broth	0.034
+8	fresh parsley	0.034
+8	cooking spray	0.033
+8	shallots	0.033
+8	chopped fresh thyme	0.030
+8	leeks	0.027
+8	arborio rice	0.026
+8	extra-virgin olive oil	0.024
+8	saffron threads	0.023
+8	black pepper	0.022
+8	prosciutto	0.022
+8	asparagus	0.022
+8	fresh parmesan cheese	0.020
+8	flat leaf parsley	0.017
+8	fennel bulb	0.017
+8	fresh lemon juice	0.017
+8	1% low-fat milk	0.016
+8	mussels	0.016
+8	large garlic cloves	0.016
+8	italian sausage	0.013
+8	whipping cream	0.013
+8	minced garlic	0.013
+8	fresh rosemary	0.012
+8	butternut squash	0.011
+8	finely chopped onion	0.011
+8	chopped fresh sage	0.011
+8	vegetable broth	0.010
+8	diced tomatoes	0.009
+8	fettucine	0.009
+8	ground nutmeg	0.009
+8	vidalia onion	0.008
+8	semi-sweet chocolate morsels	0.008
+8	chicken stock	0.007
+8	lower sodium chicken broth	0.006
+8	bacon slices	0.006
+8	cremini mushrooms	0.006
+8	medium shrimp	0.006
+8	dry roasted peanuts	0.005
+8	polenta	0.004
+8	red bell pepper	0.004
+8	cheese tortellini	0.004
+8	dry vermouth	0.004
+8	shiitake mushroom caps	0.004
+8	green onions	0.004
+8	dried porcini mushrooms	0.004
+8	crab meat	0.003
+9	oil	0.073
+9	ground ginger	0.068
+9	cinnamon	0.063
+9	ground cinnamon	0.047
+9	ground cloves	0.044
+9	mustard seeds	0.037
+9	melted butter	0.036
+9	fennel seeds	0.034
+9	nutmeg	0.030
+9	ground nutmeg	0.029
+9	cashew nuts	0.025
+9	red chili powder	0.024
+9	green peas	0.024
+9	brown sugar	0.023
+9	whole wheat flour	0.023
+9	ginger paste	0.017
+9	pecans	0.017
+9	maple syrup	0.015
+9	dried red chile peppers	0.014
+9	pizza doughs	0.014
+9	paneer	0.014
+9	peaches	0.013
+9	pears	0.012
+9	lemon juice	0.012
+9	blackberries	0.012
+9	vanilla	0.011
+9	fresh curry leaves	0.011
+9	low-fat buttermilk	0.010
+9	fenugreek seeds	0.009
+9	dark brown sugar	0.009
+9	pistachios	0.009
+9	corn syrup	0.008
+9	portabello mushroom	0.007
+9	boneless chicken thighs	0.007
+9	curds	0.007
+9	urad dal	0.007
+9	pitted date	0.007
+9	pork chops	0.007
+9	pepper flakes	0.007
+9	dried chile	0.006
+9	raw sugar	0.005
+9	double cream	0.005
+9	tapioca starch	0.005
+9	asafetida	0.004
+9	golden syrup	0.004
+9	red chili peppers	0.004
+9	flavoring	0.004
+9	fermented black beans	0.004
+9	gorgonzola	0.004
+9	yellow split peas	0.004
+10	orange juice	0.070
+10	egg yolks	0.070
+10	whipping cream	0.064
+10	orange	0.060
+10	cooked rice	0.060
+10	fresh orange juice	0.039
+10	sliced almonds	0.038
+10	light brown sugar	0.029
+10	salmon fillets	0.028
+10	mascarpone	0.025
+10	caster sugar	0.023
+10	yeast	0.019
+10	fat skimmed chicken broth	0.016
+10	fresh raspberries	0.016
+10	coffee	0.014
+10	sweet corn	0.013
+10	raspberries	0.013
+10	lemon juice	0.012
+10	rigatoni	0.012
+10	navel oranges	0.011
+10	plums	0.011
+10	lemon	0.010
+10	2% reduced-fat milk	0.010
+10	salmon	0.009
+10	softened butter	0.009
+10	straw mushrooms	0.009
+10	apple juice	0.008
+10	konbu	0.008
+10	blueberries	0.008
+10	dark chocolate	0.008
+10	currant	0.008
+10	biscuits	0.008
+10	fresh lemon juice	0.008
+10	dried bonito flakes	0.008
+10	crema	0.008
+10	whipped cream	0.008
+10	Chinese egg noodles	0.007
+10	orange rind	0.007
+10	triple sec	0.007
+10	baby carrots	0.007
+10	lemon pepper	0.006
+10	steamed rice	0.006
+10	coffee liqueur	0.006
+10	crusty bread	0.006
+10	key lime juice	0.005
+10	brewed coffee	0.005
+10	gnocchi	0.005
+10	duck fat	0.004
+10	suet	0.003
+10	black tea leaves	0.003
+11	chickpeas	0.070
+11	active dry yeast	0.068
+11	grated lemon zest	0.064
+11	fresh coriander	0.053
+11	lemon	0.053
+11	lemon wedge	0.040
+11	fresh lemon juice	0.039
+11	chopped tomatoes	0.038
+11	warm water	0.035
+11	almonds	0.033
+11	bread	0.026
+11	fat free milk	0.024
+11	light corn syrup	0.022
+11	sunflower oil	0.017
+11	lemon juice	0.016
+11	baby spinach leaves	0.015
+11	pepper jack	0.015
+11	superfine sugar	0.014
+11	agave nectar	0.013
+11	lemon slices	0.013
+11	edamame	0.013
+11	honey	0.012
+11	great northern beans	0.012
+11	beef tenderloin	0.012
+11	salted butter	0.010
+11	manchego cheese	0.010
+11	lamb	0.010
+11	semolina flour	0.010
+11	lump crab meat	0.009
+11	lemon peel	0.009
+11	grate lime peel	0.009
+11	smoked ham hocks	0.009
+11	cake	0.008
+11	pita bread	0.008
+11	ear of corn	0.008
+11	tea bags	0.008
+11	tahini	0.008
+11	fresh parsley	0.007
+11	sun-dried tomatoes in oil	0.007
+11	pesto sauce	0.006
+11	almond paste	0.006
+11	Madras curry powder	0.005
+11	medium eggs	0.005
+11	bay scallops	0.005
+11	lemon extract	0.005
+11	medium egg noodles	0.004
+11	passata	0.004
+11	smoked turkey	0.004
+11	glaze	0.004
+11	Angostura bitters	0.004
+12	scallions	0.124
+12	soy sauce	0.068
+12	mirin	0.043
+12	ginger	0.041
+12	sake	0.036
+12	dark soy sauce	0.032
+12	spinach	0.028
+12	ground pork	0.027
+12	shiitake	0.027
+12	mint leaves	0.026
+12	rice wine	0.026
+12	carrots	0.023
+12	oil	0.022
+12	napa cabbage	0.022
+12	eggs	0.019
+12	green onions	0.018
+12	chili flakes	0.017
+12	tofu	0.016
+12	pimentos	0.016
+12	dried shiitake mushrooms	0.015
+12	sesame oil	0.015
+12	kosher salt	0.014
+12	chicken wings	0.014
+12	dashi	0.014
+12	fresh ginger	0.012
+12	daikon	0.012
+12	greens	0.011
+12	white beans	0.009
+12	panko	0.009
+12	miso paste	0.009
+12	tamari soy sauce	0.009
+12	stock	0.008
+12	fresh shiitake mushrooms	0.008
+12	star anise	0.007
+12	enokitake	0.006
+12	ramen noodles	0.006
+12	vegetable broth	0.006
+12	udon	0.006
+12	seaweed	0.006
+12	pork belly	0.006
+12	miso	0.005
+12	yellow mustard seeds	0.005
+12	silken tofu	0.005
+12	shrimp	0.004
+12	phyllo pastry	0.004
+12	sea bass fillets	0.004
+12	chicken stock	0.004
+12	canola oil	0.004
+12	glutinous rice	0.004
+12	red chili peppers	0.003
+13	chile pepper	0.096
+13	hot water	0.090
+13	chicken thighs	0.084
+13	long grain white rice	0.065
+13	pork tenderloin	0.057
+13	olives	0.039
+13	fresh green bean	0.025
+13	dill	0.023
+13	jicama	0.022
+13	lime rind	0.021
+13	chicken legs	0.018
+13	turkey	0.016
+13	egg roll wrappers	0.015
+13	parsnips	0.014
+13	sherry wine vinegar	0.014
+13	chicken meat	0.014
+13	nori	0.014
+13	dried tarragon leaves	0.014
+13	boneless pork loin	0.013
+13	salad oil	0.013
+13	nonstick spray	0.012
+13	shell-on shrimp	0.011
+13	fresh marjoram	0.011
+13	pomegranate seeds	0.010
+13	oysters	0.009
+13	chicken bouillon granules	0.009
+13	ladyfingers	0.009
+13	chile paste with garlic	0.009
+13	white sandwich bread	0.009
+13	fresh lemon	0.008
+13	carrots	0.008
+13	safflower oil	0.007
+13	Boston lettuce	0.007
+13	lemon juice	0.006
+13	bean threads	0.006
+13	wood ear mushrooms	0.006
+13	wasabi powder	0.006
+13	low-fat cream cheese	0.005
+13	rotel tomatoes	0.005
+13	evaporated skim milk	0.005
+13	sweet and sour sauce	0.005
+13	honey	0.005
