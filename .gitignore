@@ -1,4 +1,5 @@
 *-checkpoint.ipynb
+.idea/*
 
 # Mathematics and Python solved assignments
 mathematics-and-python/week_1/assignment/installation-2.ipynb
@@ -17,3 +18,13 @@ mathematics-and-python/week_3/assigment/02.txt
 mathematics-and-python/week_3/assigment/03.txt
 mathematics-and-python/week_3/assigment/03_negladkaya.ipynb
 mathematics-and-python/week_4/assignment/practice_01
+
+# Supervised learning solved assignments
+supervised-learning/assignment_*/solution*.ipynb
+supervised-learning/assignment_*/_assignment_*.ipynb
+supervised-learning/assignment_*/*.txt
+
+# Unupervised learning solved assignments
+unsupervised-learning/assignment_*/_*_*.ipynb
+unsupervised-learning/assignment_*/solution*.ipynb
+unsupervised-learning/assignment_*/*.txt
