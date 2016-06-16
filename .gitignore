@@ -2,22 +2,15 @@
 .idea/*
 
 # Mathematics and Python solved assignments
-mathematics-and-python/week_1/assignment/installation-2.ipynb
-mathematics-and-python/week_1/assignment/installation-3.ipynb
-mathematics-and-python/week_*/*.png
-mathematics-and-python/week_*/*/*.png
-mathematics-and-python/week_2/assignment/approx-fun.ipynb
-mathematics-and-python/week_2/assignment/shodstvo-tekstov.ipynb
-mathematics-and-python/*_assignment/submission*.txt
-mathematics-and-python/*_assignment/0[0-9].txt
-mathematics-and-python/*_assignment/review*.ipynb
-mathematics-and-python/*_assignment/*_solution.ipynb
-mathematics-and-python/*_assignment/solution*.ipynb
-mathematics-and-python/week_3_assigment/01_minimize.ipynb
-mathematics-and-python/week_3_assigment/00_solution.ipynb
-mathematics-and-python/week_3_assigment/02_diff_evolution.ipynb
-mathematics-and-python/week_3/assigment/03_negladkaya.ipynb
-mathematics-and-python/week_4/assignment/practice_01
+mathematics-and-python/assignment_*/submission*.txt
+mathematics-and-python/assignment_*/_*.ipynb
+mathematics-and-python/assignment_*/_*.py
+mathematics-and-python/assignment_*/*.png
+mathematics-and-python/assignment_*/0[0-9].txt
+mathematics-and-python/assignment_*/review*.ipynb
+mathematics-and-python/assignment_*/*_solution.ipynb
+mathematics-and-python/assignment_*/solution*.ipynb
+mathematics-and-python/*/practice*.txt
 
 # Supervised learning solved assignments
 supervised-learning/assignment_*/solution*.ipynb
@@ -31,6 +24,8 @@ unsupervised-learning/assignment_*/*.txt
 
 # Stats for Data Analysis Quizzes
 stats-for-data-analysis/quiz_*.ipynb
+stats-for-data-analysis/assignment*.*
 stats-for-data-analysis/practice_quiz_*.ipynb
 stats-for-data-analysis/week_*/quiz_*.ipynb
 stats-for-data-analysis/week_*/practice_quiz_*.ipynb
+stats-for-data-analysis/*/submission*.*
