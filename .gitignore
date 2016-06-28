@@ -1,25 +1,27 @@
 *-checkpoint.ipynb
 .idea/*
+*.pkl
+*.npy
+
+# Solved assignments
+*solution*.ipynb
+*submission*.txt
+*review*.ipynb
 
 # Mathematics and Python solved assignments
-mathematics-and-python/assignment_*/submission*.txt
 mathematics-and-python/assignment_*/_*.ipynb
 mathematics-and-python/assignment_*/_*.py
 mathematics-and-python/assignment_*/*.png
 mathematics-and-python/assignment_*/0[0-9].txt
-mathematics-and-python/assignment_*/review*.ipynb
 mathematics-and-python/assignment_*/*_solution.ipynb
-mathematics-and-python/assignment_*/solution*.ipynb
 mathematics-and-python/*/practice*.txt
 
 # Supervised learning solved assignments
-supervised-learning/assignment_*/solution*.ipynb
 supervised-learning/assignment_*/_assignment_*.ipynb
 supervised-learning/assignment_*/*.txt
 
 # Unupervised learning solved assignments
 unsupervised-learning/assignment_*/_*_*.ipynb
-unsupervised-learning/assignment_*/solution*.ipynb
 unsupervised-learning/assignment_*/*.txt
 
 # Stats for Data Analysis Quizzes
