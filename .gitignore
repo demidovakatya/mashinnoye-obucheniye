@@ -2,6 +2,7 @@
 .idea/*
 *.pkl
 *.npy
+*.DS_store
 
 # Solved assignments
 *solution*.ipynb
@@ -9,25 +10,26 @@
 *review*.ipynb
 
 # Mathematics and Python solved assignments
-mathematics-and-python/assignment_*/_*.ipynb
-mathematics-and-python/assignment_*/_*.py
-mathematics-and-python/assignment_*/*.png
-mathematics-and-python/assignment_*/0[0-9].txt
-mathematics-and-python/assignment_*/*_solution.ipynb
-mathematics-and-python/*/practice*.txt
+1-mathematics-and-python/assignment_*/_*.ipynb
+1-mathematics-and-python/assignment_*/_*.py
+1-mathematics-and-python/assignment_*/*.png
+1-mathematics-and-python/assignment_*/0[0-9].txt
+1-mathematics-and-python/assignment_*/*_solution.ipynb
+1-mathematics-and-python/*/practice*.txt
 
 # Supervised learning solved assignments
-supervised-learning/assignment_*/_assignment_*.ipynb
-supervised-learning/assignment_*/*.txt
+2-supervised-learning/assignment_*/_assignment_*.ipynb
+2-supervised-learning/assignment_*/*.txt
+2-supervised-learning/quizzes/*
 
 # Unupervised learning solved assignments
-unsupervised-learning/assignment_*/_*_*.ipynb
-unsupervised-learning/assignment_*/*.txt
+3-unsupervised-learning/assignment_*/_*_*.ipynb
+3-unsupervised-learning/assignment_*/*.txt
 
 # Stats for Data Analysis Quizzes
-stats-for-data-analysis/quiz_*.ipynb
-stats-for-data-analysis/assignment*.*
-stats-for-data-analysis/practice_quiz_*.ipynb
-stats-for-data-analysis/week_*/quiz_*.ipynb
-stats-for-data-analysis/week_*/practice_quiz_*.ipynb
-stats-for-data-analysis/*/submission*.*
+4-stats-for-data-analysis/quiz_*.ipynb
+4-stats-for-data-analysis/assignment*.*
+4-stats-for-data-analysis/practice_quiz_*.ipynb
+4-stats-for-data-analysis/week_*/quiz_*.ipynb
+4-stats-for-data-analysis/week_*/practice_quiz_*.ipynb
+4-stats-for-data-analysis/*/submission*.*
