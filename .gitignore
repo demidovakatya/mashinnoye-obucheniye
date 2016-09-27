@@ -35,3 +35,6 @@
 4-stats-for-data-analysis/*/submission*.*
 4-stats-for-data-analysis/week_4/assignment_part_*_genes.ipynb
 4-stats-for-data-analysis/week_4/assignment_part_*_genes.ipynb
+
+#
+5-data-analysis-applications/*/_*.ipynb
