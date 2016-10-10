@@ -38,3 +38,6 @@
 
 #
 5-data-analysis-applications/*/_*.ipynb
+5-data-analysis-applications/*/_*.py
+5-data-analysis-applications/*/answer_*.txt
+5-data-analysis-applications/*/__pycache__
