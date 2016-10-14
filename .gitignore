@@ -3,6 +3,7 @@
 *.pkl
 *.npy
 *.DS_store
+.ipynb_checkpoints
 
 # Solved assignments
 *solution*.ipynb
@@ -41,3 +42,5 @@
 5-data-analysis-applications/*/_*.py
 5-data-analysis-applications/*/answer_*.txt
 5-data-analysis-applications/*/__pycache__
+5-data-analysis-applications/02_computer_vision/test/
+5-data-analysis-applications/02_computer_vision/train/
