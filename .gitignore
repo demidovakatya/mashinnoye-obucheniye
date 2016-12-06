@@ -9,6 +9,8 @@
 *solution*.ipynb
 *submission*.txt
 *review*.ipynb
+answer_*.txt
+_*.ipynb
 
 # Mathematics and Python solved assignments
 1-mathematics-and-python/assignment_*/_*.ipynb
@@ -44,3 +46,7 @@
 5-data-analysis-applications/*/__pycache__
 5-data-analysis-applications/02_computer_vision/test/
 5-data-analysis-applications/02_computer_vision/train/
+
+#
+6-data-analysis-project/4-sentiment-analysis/week_4_simple_demo/.idea/
+6-data-analysis-project/4-sentiment-analysis/_*/
