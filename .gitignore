@@ -11,6 +11,7 @@
 *review*.ipynb
 answer_*.txt
 _*.ipynb
+*_answer*.txt
 
 # Mathematics and Python solved assignments
 1-mathematics-and-python/assignment_*/_*.ipynb
@@ -21,13 +22,11 @@ _*.ipynb
 1-mathematics-and-python/*/practice*.txt
 
 # Supervised learning solved assignments
-2-supervised-learning/assignment_*/_assignment_*.ipynb
-2-supervised-learning/assignment_*/*.txt
+2-supervised-learning/assignments/assignment_*/
 2-supervised-learning/quizzes/*
 
 # Unupervised learning solved assignments
-3-unsupervised-learning/assignment_*/_*_*.ipynb
-3-unsupervised-learning/assignment_*/*.txt
+3-unsupervised-learning/assignments/assignment_*
 
 # Stats for Data Analysis Quizzes
 4-stats-for-data-analysis/quiz_*.ipynb
@@ -48,5 +47,6 @@ _*.ipynb
 5-data-analysis-applications/02_computer_vision/train/
 
 #
-6-data-analysis-project/4-sentiment-analysis/week_4_simple_demo/.idea/
 6-data-analysis-project/4-sentiment-analysis/_*/
+6-data-analysis-project/4-sentiment-analysis/*submissions/
+6-data-analysis-project/1-pattern-mining/capstone_websites_data
