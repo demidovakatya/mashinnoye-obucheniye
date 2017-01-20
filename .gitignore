@@ -6,10 +6,13 @@
 .ipynb_checkpoints
 
 # Solved assignments
+*/assignments/
+*/quizzes/
 *solution*.ipynb
-*submission*.txt
 *review*.ipynb
+*submission*.txt
 answer_*.txt
+_*.*
 _*.ipynb
 *_answer*.txt
 
@@ -22,11 +25,9 @@ _*.ipynb
 1-mathematics-and-python/*/practice*.txt
 
 # Supervised learning solved assignments
-2-supervised-learning/assignments/assignment_*/
 2-supervised-learning/quizzes/*
 
 # Unupervised learning solved assignments
-3-unsupervised-learning/assignments/assignment_*
 
 # Stats for Data Analysis Quizzes
 4-stats-for-data-analysis/quiz_*.ipynb
